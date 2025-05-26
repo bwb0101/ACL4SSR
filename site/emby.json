@@ -2,7 +2,11 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": "oceancloud.asia"
+      "domain_suffix": [
+        "oceancloud.asia",
+        "yezi.my",
+        "bgp.yt"
+      ]
     }
   ]
 }
