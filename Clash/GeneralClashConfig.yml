@@ -20,17 +20,21 @@ dns:
   fake-ip-filter-mode: blacklist
   # 默认 DNS（用于解析下面的 DoH 域名本身）
   default-nameserver:
-    - 223.5.5.5
     - 119.29.29.29
+    - 223.5.5.5
   # 主 DNS：全量交给你本地的 MosDNS
   nameserver:
-    - 127.0.0.1:5335
-  # ✨ 斩断死循环的关键：代理节点域名的专属解析
+    - 119.29.29.29
+    - 223.5.5.5
+  # ✨ 代理节点域名的专属解析
   proxy-server-nameserver:
     - https://223.6.6.6/dns-query
     - https://1.12.12.12/dns-query
-  # 国内直连精准分流：国内域名直接走阿里/腾讯，不经过 MosDNS，进一步提速
+  # 国内/国外精准分流，防止dns泄露
   nameserver-policy:
     "geosite:cn,private":
       - quic://223.5.5.5:853
       - https://1.12.12.12/dns-query
+    "geosite:geolocation-!cn":
+      - https://8.8.8.8/dns-query
+      - https://1.1.1.1/dns-query
