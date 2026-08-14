@@ -149,6 +149,7 @@
 (^|\.)agro.hk$
 (^|\.)ai.dev$
 (^|\.)ai.studio$
+(^|\.)aihub.top$
 (^|\.)aiosearch.com$
 (^|\.)aiph.net$
 (^|\.)airconsole.com$
@@ -316,7 +317,6 @@
 (^|\.)atnext.com$
 (^|\.)auctions.yahoo.co.jp$
 (^|\.)audacy.com$
-(^|\.)auntology.fandom.com$
 (^|\.)autodraw.com$
 (^|\.)av.movie$
 (^|\.)av01.tv$
@@ -362,6 +362,7 @@
 (^|\.)barnabu.co.uk$
 (^|\.)bartender.dowjones.com$
 (^|\.)barton.de$
+(^|\.)basemaps.arcgis.com$
 (^|\.)bastillepost.com$
 (^|\.)bayvoice.net$
 (^|\.)bb-chat.tv$
@@ -648,6 +649,7 @@
 (^|\.)centerforhumanreprod.com$
 (^|\.)centralnation.com$
 (^|\.)centurys.net$
+(^|\.)cerebras.ai$
 (^|\.)certificate-transparency.org$
 (^|\.)certificate.revocationcheck.com$
 (^|\.)cfr.org$
@@ -728,6 +730,7 @@
 (^|\.)chromecast.com$
 (^|\.)chromeexperiments.com$
 (^|\.)chromestatus.com$
+(^|\.)cht.com.tw$
 (^|\.)ci-en.jp$
 (^|\.)cia.gov$
 (^|\.)cici.com$
@@ -956,6 +959,7 @@
 (^|\.)disp.cc$
 (^|\.)disqus.com$
 (^|\.)dit-inc.us$
+(^|\.)divdyn.com$
 (^|\.)diyin.org$
 (^|\.)dizhuzhishang.com$
 (^|\.)dl-laby.jp$
@@ -1107,6 +1111,7 @@
 (^|\.)eromangadouzin.com$
 (^|\.)eromon.net$
 (^|\.)esg.t91y.com$
+(^|\.)esim.redteago.com$
 (^|\.)eslite.com$
 (^|\.)esurance.com$
 (^|\.)etherdelta.com$
@@ -1129,6 +1134,7 @@
 (^|\.)expatshield.com$
 (^|\.)expecthim.com$
 (^|\.)expekt.com$
+(^|\.)experience.arcgis.com$
 (^|\.)exploader.net$
 (^|\.)expressnews.com$
 (^|\.)expressvpn.com$
@@ -1168,6 +1174,7 @@
 (^|\.)falunhr.org$
 (^|\.)famunion.com$
 (^|\.)fanbox.cc$
+(^|\.)fandom.com$
 (^|\.)fangeqiang.com$
 (^|\.)fanglizhi.info$
 (^|\.)fangong.org$
@@ -1863,7 +1870,6 @@
 (^|\.)home.saxo$
 (^|\.)homedepot.com$
 (^|\.)homeservershow.com$
-(^|\.)hongkong.fandom.com$
 (^|\.)hongkongfp.com$
 (^|\.)hongzhi.li$
 (^|\.)honven.xyz$
@@ -2494,7 +2500,6 @@
 (^|\.)motherless.com$
 (^|\.)movements.org$
 (^|\.)moviefap.com$
-(^|\.)mozilla.ai$
 (^|\.)mpettis.com$
 (^|\.)mpfinance.com$
 (^|\.)mpinews.com$
@@ -2649,6 +2654,7 @@
 (^|\.)ntdtv.com$
 (^|\.)ntdtv.com.tw$
 (^|\.)ntdtv.cz$
+(^|\.)nthlink.com$
 (^|\.)nuexpo.com$
 (^|\.)nurgo-software.com$
 (^|\.)nusatrip.com$
@@ -2962,7 +2968,6 @@
 (^|\.)pullfolio.co$
 (^|\.)pure18.com$
 (^|\.)pureconcepts.net$
-(^|\.)puredns.org$
 (^|\.)pureinsight.org$
 (^|\.)purepdf.com$
 (^|\.)purevpn.com$
@@ -3007,7 +3012,6 @@
 (^|\.)radio.garden$
 (^|\.)radioaustralia.net.au$
 (^|\.)radiohilight.net$
-(^|\.)radiojar.com$
 (^|\.)radioline.co$
 (^|\.)radiovaticana.org$
 (^|\.)radiovncr.com$
@@ -3121,7 +3125,6 @@
 (^|\.)safechat.com$
 (^|\.)safeguarddefenders.com$
 (^|\.)safervpn.com$
-(^|\.)sagernet.org$
 (^|\.)saintyculture.com$
 (^|\.)sakuralive.com$
 (^|\.)salvation.org.hk$
@@ -4113,7 +4116,6 @@
 (^|\.)wwitv.com$
 (^|\.)www.ajsands.com$
 (^|\.)www.bing.com$
-(^|\.)www.clashverge.dev$
 (^|\.)www.hoyolab.com$
 (^|\.)www.lorenzetti.com.br$
 (^|\.)www.moztw.org$
