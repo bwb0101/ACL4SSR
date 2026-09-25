@@ -1,11 +1,17 @@
 # Emby
 DOMAIN,emby.yzt.lol
 DOMAIN,emby.yzt.moe
+
+DOMAIN-SUFFIX,emby.my
+
 DOMAIN-SUFFIX,lyezi.xyz
 DOMAIN-SUFFIX,lyezi.cc
 DOMAIN-SUFFIX,200036.xyz
+
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,emby.pro
+
 DOMAIN,emby.taotu.ink
+
 DOMAIN-KEYWORD,yusen
 DOMAIN-KEYWORD,yusen6
