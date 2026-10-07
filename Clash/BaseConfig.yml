@@ -13,7 +13,7 @@ dns:
   listen: 0.0.0.0:7874
   ipv6: true
   enhanced-mode: redir-host
-  respect-rules: false
+  respect-rules: true
   # 强制真实 IP 模式的兜底(限于redir，fake里也会加上*造成失效)
   #fake-ip-filter:
   #  - "*"
@@ -24,8 +24,8 @@ dns:
     - 119.29.29.29
   # 主 DNS
   nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
   # ✨ 代理节点域名的专属解析
   proxy-server-nameserver:
     - https://223.6.6.6/dns-query
