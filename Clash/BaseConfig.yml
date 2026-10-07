@@ -14,9 +14,9 @@ dns:
   ipv6: true
   enhanced-mode: redir-host
   respect-rules: false
-  # 强制真实 IP 模式的兜底
-  fake-ip-filter:
-    - "*"
+  # 强制真实 IP 模式的兜底(限于redir，fake里也会加上*造成失效)
+  #fake-ip-filter:
+  #  - "*"
   fake-ip-filter-mode: blacklist
   # 默认 DNS（用于解析下面的 DoH 域名本身）
   default-nameserver:
