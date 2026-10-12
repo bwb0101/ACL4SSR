@@ -32,9 +32,9 @@ dns:
     - https://1.12.12.12/dns-query
   # 国内/国外精准分流，防止dns泄露
   nameserver-policy:
-    "geosite:cn":
-      - 223.5.5.5
-      - https://1.12.12.12/dns-query
-    "geosite:geolocation-!cn":
-      - 8.8.8.8
-      - https://dns.google/dns-query
+    geosite:cn:
+      - https://dns.alidns.com/dns-query
+      - https://doh.pub/dns-query
+    geosite:geolocation-!cn:
+      - https://dns.google/dns-query#♻️自动选择
+      - https://dns.cloudflare.com/dns-query#♻️自动选择
